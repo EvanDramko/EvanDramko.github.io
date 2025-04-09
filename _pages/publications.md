@@ -5,26 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-[**Idioms: Neural Decompilation With Joint Code and Type Prediction**](https://arxiv.org/abs/2502.04536)<br>
-*Luke Dramko*, Claire Le Goues, Edward Schwartz<br>
-Preprint, 2025<br>
-[Code](https://github.com/squaresLab/idioms), [Dataset & Model Weights](https://zenodo.org/records/14797017)
+[**(*Upcoming Invited Submission*) RecCrysFormer Variation for Completion Task**]()<br>
+Tom Pan, *Evan Dramko*, Mitchell D Miller, George N Phillips Jr, Anastasios Kyrillidis<br>
+, 2025<br>
 
-[**Fast, Fine-Grained Equivalence Checking for Neural Decompilers**](https://arxiv.org/abs/2501.04811)<br>
-*Luke Dramko*, Claire Le Goues, Edward Schwartz<br>
-Preprint, 2025<br>
-[Code](https://github.com/squaresLab/codealign)
+[**(*under review*) Convergence Analysis of Two Layer Neural Networks under Gaussian Input Masking**]()<br>
+Fangshuo Liao, *Evan Dramko*, Ziyun Guang, Anastasios Kyrillidis<br>
+, 2025<br>
 
-[**A Taxonomy of C Decompiler Fidelity Issues**](https://www.usenix.org/system/files/sec23winter-prepub-381-dramko.pdf)<br>
-*Luke Dramko*, Jeremy Lacomis, Edward Schwartz, Bogdan Vasilescu, Claire Le Goues<br>
-USENIX Security, 2024<br>
-[Artifacts](https://zenodo.org/records/8419614)
 
-[**DIRE and its Data: Neural Decompiled Variable Renamings with Respect to Software Class**](https://dl.acm.org/doi/full/10.1145/3546946)<br>
-*Luke Dramko*, Jeremy Lacomis, Pengcheng Yin, Edward Schwartz, Miltiadis Allamanis, Graham Neubig, Bogdan Vasilescu, Claire Le Goues<br>
-ACM Transactions on Software Engineering and Methodology (TOSEM), 2023
+[**RecCrysFormer: Refined Protein Structural Prediction from 3D Patterson Maps via Recycling Training Runs**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iKjv4W4AAAAJ&citation_for_view=iKjv4W4AAAAJ:u-x6o8ySG0sC)<br>
+Tom Pan, *Evan Dramko*, Mitchell D Miller, George N Phillips Jr, Anastasios Kyrillidis<br>
+Conference on Parsimony and Learning (CPAL), 2025<br>
 
-[**Development of an open-source regional data assimilation system in PEcAn v. 1.7.2: application to carbon cycle reanalysis across the contiguous US using SIPNET**](https://gmd.copernicus.org/articles/15/3233/2022/gmd-15-3233-2022.html)<br>
-Hamze Dokoohaki, Bailey D. Morrison, Ann Raiho, Shawn P. Serbin, Katie Zarada, *Luke Dramko*, and Michael Dietze<br>
-Geosientific Model Development, 2022<br>
-[Code](https://github.com/PecanProject/pecan)
+[**Characterizing the effect of filament moisture on tensile properties and morphology of fused deposition modeled polylactic acid/polybutylene succinate parts**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iKjv4W4AAAAJ&citation_for_view=iKjv4W4AAAAJ:u5HHmVD_uO8C)<br>
+Raihan Quader, *Evan Dramko*, David Grewell, Jed Randall, Lokesh Narayanan<br>
+3D Printing and Additive Manufacturing, 2024<br>
+

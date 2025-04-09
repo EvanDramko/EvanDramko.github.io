@@ -7,17 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a software engineering PhD student and NSF Graduate Research Fellow at Carnegie Mellon University.
-I am fortunate to be advised by [Dr. Claire Le Goues](https://clairelegoues.com/) and work with [Dr. Edward Schwartz](https://edmcman.github.io/) at the [CMU Software Engineering Institute](https://www.sei.cmu.edu/).
-My work is in **AI/ML**, **program analysis**, and software **security**.
-In particular, I focus on NLP and reverse engineering.
+I am a second year graduate student at Rice University. I am advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/about/), and I collaborate heavily with [Dr. Christopher Jermaine](https://www.cs.rice.edu/~cmj4/), [Dr.  Thomas Reps](https://pages.cs.wisc.edu/~reps/) of UW-Madison, [Dr. Geoffrey Hautier](https://sites.dartmouth.edu/hautiergroup/), [Dr. George Phillips](https://www.phillipslab.org), and [Dr. Mitchell Miller](https://scholar.google.com/citations?user=waude4cAAAAJ&hl=en). Broadly my work focuses on the development of Neural Networks (NNs), though recent projects have been in physical science applications. 
 
-A major theme of my recent work has been studying and building an ecosystem of software tools in support of neural decompilation.
-Decompilers convert compiled programs back into source code; neural decompilation enhances decompilation with machine learning to make the painstaking process of reverse engineering easier.
-In particular, in my work, I have:
-- Built state-of-the-art neural-decompilers. ([paper](https://arxiv.org/pdf/2502.04536))
-- Designed a new multifaceted paradigm-shifting evaluation technique to measure neural decompilers' correctness and their value added over traditional decompilers. ([paper](https://arxiv.org/pdf/2501.04811))
-- Systematically motivated the need for neural decompilation. ([paper](https://www.usenix.org/system/files/sec23winter-prepub-381-dramko.pdf))
-- Studied dataset quality and best practices for dataset construction. A machine learning model is only as good as its training data. ([paper](https://arxiv.org/pdf/2502.04536), [paper](https://dl.acm.org/doi/pdf/10.1145/3546946))
+Specifically, I focus on how the underlying mathematics of the application domain compare to those of the learning algorithm, and how this comparison can lead to best design and use practices for NN algorithms. Additonally, due to the nature of the learning for physical sciences domain, a substantial part of my work is in cross-department collaboration and data curation. 
 
-Outside of neural decompilation, I have interned at [GitHub](https://github.com/), served on CMU's [REU-SE](https://www.cmu.edu/scs/s3d/reuse/) admissions comittee, and reviewed for [ACM TOSEM](https://dl.acm.org/journal/tosem).
+Outside of work, I enjoy tennis, rock climbing, and reading fiction novels with extensive backstories. I also particularly enjor cooking and (sometimes) eating creative recipes. 
+
+*I recently started writing some explanatory articles covering detailed mathematics of machine learning. Check it out!*
+
+### Explanatory Articles
+
+##### Transformers and Related
+- Transformer Mathematics In Extensive Detail [pdf](../files/transformer.pdf)
+- Deep Dive Into Attention Computations [pdf](../files/attention.pdf)
+
+##### Other
+- Einstein Summation (einsum) in *numpy* and *pyTorch* [pdf](../files/einsum.pdf)
+- Inflation of Testing Accuracy Due To Invalid Time Series Interpolation [pdf](../files/interpolation.pdf)
