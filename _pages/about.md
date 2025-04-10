@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year graduate student at Rice University. I am advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/about/), and I collaborate heavily with [Dr. Christopher Jermaine](https://www.cs.rice.edu/~cmj4/), [Dr.  Thomas Reps](https://pages.cs.wisc.edu/~reps/) of UW-Madison, [Dr. Geoffrey Hautier](https://sites.dartmouth.edu/hautiergroup/), [Dr. George Phillips](https://www.phillipslab.org), and [Dr. Mitchell Miller](https://scholar.google.com/citations?user=waude4cAAAAJ&hl=en). Broadly my work focuses on the development of Neural Networks (NNs), though recent projects have been in physical science applications. 
+I am a second year graduate student at Rice University. I am advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/about/), and I collaborate heavily with [Dr. Christopher Jermaine](https://www.cs.rice.edu/~cmj4/), [Dr.  Thomas Reps](https://pages.cs.wisc.edu/~reps/) of UW-Madison, [Dr. Geoffrey Hautier](https://sites.dartmouth.edu/hautiergroup/), [Dr. George Phillips](https://www.phillipslab.org), and [Dr. Mitchell Miller](https://scholar.google.com/citations?user=waude4cAAAAJ&hl=en). Broadly, my work focuses on the development of Neural Networks (NNs) with my recent projects being in physical science applications. 
 
-Specifically, I focus on how the underlying mathematics of the application domain compare to those of the learning algorithm, and how this comparison can lead to best design and use practices for NN algorithms. Additionally, due to the nature of the learning for physical sciences domain, a substantial part of my work is in cross-department collaboration and data curation. 
+Throughout my work I focus on comparing the underlying mathematics of the application domain to that of the learning algorithm, and use this comparison to create more effective NNs. Due to the nature of the learning for the physical sciences domain, a substantial part of my work is in cross-departmental collaboration and in data curation. 
 
 Outside of work, I enjoy tennis, rock climbing, and reading fiction novels with extensive backstories. I also particularly enjoy cooking and (sometimes) eating creative recipes. 
 
-*I recently started writing some explanatory articles covering detailed mathematics of machine learning. Check it out!*
+*I recently started writing some explanatory articles covering the detailed mathematics of machine learning. Check it out!*
 
 ### Explanatory Articles
 
