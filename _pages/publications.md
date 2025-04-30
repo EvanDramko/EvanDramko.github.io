@@ -7,7 +7,7 @@ author_profile: true
 
 [**(*Upcoming Invited Submission*) RecCrysFormer Variation for Completion Task**]()<br>
 Tom Pan, *Evan Dramko*, Mitchell D Miller, George N Phillips Jr, Anastasios Kyrillidis<br>
-, 2025<br>
+IUCr, 2025<br>
 
 [**(*under review*) Convergence Analysis of Two Layer Neural Networks under Gaussian Input Masking**]()<br>
 Fangshuo Liao, *Evan Dramko*, Ziyun Guang, Anastasios Kyrillidis<br>
