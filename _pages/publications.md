@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[**(*Upcoming Invited Submission*) RecCrysFormer Variation for Completion Task**]()<br>
+[**(*Invited Submission*) RecCrysFormer Variation for Completion Task**]()<br>
 Tom Pan, *Evan Dramko*, Mitchell D Miller, George N Phillips Jr, Anastasios Kyrillidis<br>
 IUCr, 2025<br>
 
