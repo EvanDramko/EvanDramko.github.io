@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+[**(*PrePrint*) ADAPT: Lightweight, Long-Range Machine Learning Force Fields Without Graphs**]()<br>
+*Evan Dramko*, Xiong Yihuang, Zhu Yizhi, Hautier, Geoffroy, Reps Thomas, Jermaine Christopher, Anastasios Kyrillidis<br>
+IUCr, 2025<br>
+Available copy: [pdf](../files/prerelease_ADAPT.pdf)
+
 [**(*Invited Submission*) RecCrysFormer Variation for Completion Task**]()<br>
 Tom Pan, *Evan Dramko*, Mitchell D Miller, George N Phillips Jr, Anastasios Kyrillidis<br>
 IUCr, 2025<br>
