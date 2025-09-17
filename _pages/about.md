@@ -18,6 +18,7 @@ Outside of work, I enjoy tennis, rock climbing, and reading fiction novels with 
 ### Explanatory Articles
 
 ##### Transformers and Related
+- Reinforcement Learning from Human Feedback Introduction [pdf](../files/RLHFbase.pdf)
 - Transformer Mathematics In Extensive Detail [pdf](../files/transformer.pdf)
 - Deep Dive Into Attention Computations [pdf](../files/attention.pdf)
 
