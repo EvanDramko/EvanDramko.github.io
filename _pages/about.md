@@ -12,7 +12,7 @@ I am a third year graduate student at Rice University. I am advised by [Dr. Anas
 My work focuses in three areas: 
 1) the development of novel Neural Network (NN) architectures, 
 2) applying NNs to the physical sciences: specifically atomistic structural calculations in nanoengineering and biochemistry, 
-3) Reinforcement Learning (RL) based model tuning and Reinforcement Learning from Human Feedback (RLHF).
+3) Reinforcement Learning (RL) based model tuning and Reinforcement Learning from Human Feedback (RLHF)
 
 Throughout my work I focus on the underlying mathematics of the application domain and customizing the NN architecure to encode inductive biases into the architecture. Additionally, due to the nature of the ML for physical sciences domain, a substantial part of my work in that area is in cross-departmental collaboration, developing NN pipelines from scratch, and data curation. 
 
