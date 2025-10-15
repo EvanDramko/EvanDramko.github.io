@@ -9,7 +9,7 @@ author_profile: true
 *Evan Dramko*, Xiong Yihuang, Zhu Yizhi, Hautier, Geoffroy, Reps Thomas, Jermaine Christopher, Anastasios Kyrillidis<br>
 , 2025<br>
 Original formatting copy: [pdf](../files/prerelease_ADAPT.pdf)  
-[Zenodo](https://zenodo.org/records/17317543); [Github](https://github.com/EvanDramko/ADAPT_Released)  
+[Zenodo](https://zenodo.org/records/17347558); [Github](https://github.com/EvanDramko/ADAPT_Released)  
 ADAPT will be presented as a poster at MRS Fall 2025!
 
 [**(*Accepted Submission*) RecCrysFormer Variation for Completion Task**]()<br>
