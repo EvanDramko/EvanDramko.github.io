@@ -21,11 +21,10 @@ IUCr, 2025<br>
 Tom Pan, *Evan Dramko*, Mitchell D Miller, George N Phillips Jr, Anastasios Kyrillidis<br>
 Conference on Parsimony and Learning (CPAL), 2025<br>
 
-[**(*under review*) Convergence Analysis of Two Layer Neural Networks under Gaussian Input Masking**]()<br>
-Fangshuo Liao, *Evan Dramko*, Ziyun Guang, Anastasios Kyrillidis<br>
-, 2025<br>
-
 [**Characterizing the effect of filament moisture on tensile properties and morphology of fused deposition modeled polylactic acid/polybutylene succinate parts**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iKjv4W4AAAAJ&citation_for_view=iKjv4W4AAAAJ:u5HHmVD_uO8C)<br>
 Raihan Quader, *Evan Dramko*, David Grewell, Jed Randall, Lokesh Narayanan<br>
 3D Printing and Additive Manufacturing, 2024<br>
 
+[**(*discarded*) Convergence Analysis of Two Layer Neural Networks under Gaussian Input Masking**]()<br>
+Fangshuo Liao, *Evan Dramko*, Ziyun Guang, Anastasios Kyrillidis<br>
+, 2025<br>
