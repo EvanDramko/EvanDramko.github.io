@@ -12,7 +12,7 @@ Original formatting copy: [pdf](../files/prerelease_ADAPT.pdf)
 [Zenodo](https://zenodo.org/records/17347558); [Github](https://github.com/EvanDramko/ADAPT_Released)  
 ADAPT will be presented as a poster at MRS Fall 2025!
 
-[**(*Accepted Submission*) RecCrysFormer Variation for Completion Task**]()<br>
+[**Completion of partial structures using Patterson maps with the CrysFormer machine learning model**]()<br>
 Tom Pan, *Evan Dramko*, Mitchell D Miller, George N Phillips Jr, Anastasios Kyrillidis<br>
 IUCr, 2025<br>
 
