@@ -14,7 +14,7 @@ ADAPT will be presented as a poster at MRS Fall 2025!
 
 [**Completion of partial structures using Patterson maps with the CrysFormer machine learning model**]()<br>
 Tom Pan, *Evan Dramko*, Mitchell D Miller, George N Phillips Jr, Anastasios Kyrillidis<br>
-IUCr, 2025<br>
+IUCr Acta Crystaollagrphica, 2025<br>
 
 
 [**RecCrysFormer: Refined Protein Structural Prediction from 3D Patterson Maps via Recycling Training Runs**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iKjv4W4AAAAJ&citation_for_view=iKjv4W4AAAAJ:u-x6o8ySG0sC)<br>
