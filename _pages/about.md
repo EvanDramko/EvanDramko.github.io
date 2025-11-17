@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year graduate student at Rice University. I am advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/about/), and I work closely with [Dr. Christopher Jermaine](https://www.cs.rice.edu/~cmj4/), [Dr. Geoffrey Hautier](https://sites.dartmouth.edu/hautiergroup/), [Dr.  Thomas Reps](https://pages.cs.wisc.edu/~reps/) of UW-Madison, [Dr. George Phillips](https://www.phillipslab.org), and [Dr. Mitchell Miller](https://scholar.google.com/citations?user=waude4cAAAAJ&hl=en). 
+I am a third year graduate student at Rice University. I am advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/about/), and I work closely with [Dr. Christopher Jermaine](https://www.cs.rice.edu/~cmj4/), [Dr. Geoffroy Hautier](https://sites.dartmouth.edu/hautiergroup/), [Dr.  Thomas Reps](https://pages.cs.wisc.edu/~reps/) of UW-Madison, [Dr. George Phillips](https://www.phillipslab.org), and [Dr. Mitchell Miller](https://scholar.google.com/citations?user=waude4cAAAAJ&hl=en). 
 
 My work focuses in three areas:   
 1) the development of novel Neural Network (NN) architectures,   
