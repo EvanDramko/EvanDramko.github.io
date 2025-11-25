@@ -11,9 +11,9 @@ author_profile: true
 [Zenodo](https://zenodo.org/records/17347558); [Github](https://github.com/EvanDramko/ADAPT_Released); [Webpage](https://evandramko.github.io/ADAPT_webpage/)  
 ADAPT will be presented as a poster at MRS Fall 2025!
 
-[**Completion of partial structures using Patterson maps with the CrysFormer machine learning model**](https://arxiv.org/abs/2511.10440)<br>
+[**Completion of partial structures using Patterson maps with the CrysFormer machine learning model**](https://journals.iucr.org/d/issues/2025/12/00/has5002/index.html)<br>
 Tom Pan, *Evan Dramko*, Mitchell D Miller, George N Phillips Jr, Anastasios Kyrillidis<br>
-IUCr Acta Crystallographica, 2025<br>
+IUCr Acta Crystallographica D, 2025<br>
 
 
 [**RecCrysFormer: Refined Protein Structural Prediction from 3D Patterson Maps via Recycling Training Runs**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iKjv4W4AAAAJ&citation_for_view=iKjv4W4AAAAJ:u-x6o8ySG0sC)<br>
