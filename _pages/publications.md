@@ -5,8 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+[**(Out in a few days!) On The Finetuning of MLIPs Through the Lens of Iterated Maps With BPTT**]()<br>
+*Evan Dramko*, Zhu Yizhi, Krivokapic Aleksander, Hautier Geoffroy, Reps Thomas, Jermaine Christopher, Anastasios Kyrillidis<br>
+, 2025<br>
+
 [**(*Under Review*) ADAPT: Lightweight, Long-Range Machine Learning Force Fields Without Graphs**](https://arxiv.org/abs/2509.24115)<br>
-*Evan Dramko*, Xiong Yihuang, Zhu Yizhi, Hautier, Geoffroy, Reps Thomas, Jermaine Christopher, Anastasios Kyrillidis<br>
+*Evan Dramko*, Xiong Yihuang, Zhu Yizhi, Hautier Geoffroy, Reps Thomas, Jermaine Christopher, Anastasios Kyrillidis<br>
 , 2025<br>
 [Zenodo](https://zenodo.org/records/17347558); [Github](https://github.com/EvanDramko/ADAPT_Released); [Webpage](https://evandramko.github.io/ADAPT_webpage/)  
 ADAPT will be presented as a poster at MRS Fall 2025!
