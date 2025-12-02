@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[**(Out in a few days!) On The Finetuning of MLIPs Through the Lens of Iterated Maps With BPTT**]()<br>
+[**(Preprint) On The Finetuning of MLIPs Through the Lens of Iterated Maps With BPTT**](https://arxiv.org/abs/2512.01067)<br>
 *Dramko Evan*, Zhu Yizhi, Krivokapic Aleksander, Hautier Geoffroy, Reps Thomas, Jermaine Christopher, Anastasios Kyrillidis<br>
 , 2025<br>
 
