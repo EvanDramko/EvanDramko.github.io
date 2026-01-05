@@ -12,7 +12,7 @@ author_profile: true
 [**(Preprint) ADAPT: Lightweight, Long-Range Machine Learning Force Fields Without Graphs**](https://arxiv.org/abs/2509.24115)<br>
 *Dramko Evan*, Xiong Yihuang, Zhu Yizhi, Hautier Geoffroy, Reps Thomas, Jermaine Christopher, Anastasios Kyrillidis<br>
 , 2025<br>
-[Zenodo](https://zenodo.org/records/17347558); [Github](https://github.com/EvanDramko/ADAPT_Released); [Webpage](https://evandramko.github.io/ADAPT_webpage/)  
+[Zenodo](https://zenodo.org/records/17411327); [Github](https://github.com/EvanDramko/ADAPT_Released); [Webpage](https://evandramko.github.io/ADAPT_webpage/)  
 ADAPT will be presented as a poster at MRS Fall 2025!
 
 [**Completion of partial structures using Patterson maps with the CrysFormer machine learning model**](https://journals.iucr.org/d/issues/2025/12/00/has5002/index.html)<br>
