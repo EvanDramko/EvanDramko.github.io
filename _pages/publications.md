@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-[**(Preprint) On The Finetuning of MLIPs Through the Lens of Iterated Maps With BPTT**](https://arxiv.org/abs/2512.01067)<br>
+[**(Preprint, Under Review) On The Finetuning of MLIPs Through the Lens of Iterated Maps With BPTT**](https://arxiv.org/abs/2512.01067)<br>
 *Dramko Evan*, Zhu Yizhi, Krivokapic Aleksander, Hautier Geoffroy, Reps Thomas, Jermaine Christopher, Anastasios Kyrillidis<br>
 , 2025<br>
 
-[**(Preprint) ADAPT: Lightweight, Long-Range Machine Learning Force Fields Without Graphs**](https://arxiv.org/abs/2509.24115)<br>
+[**(Preprint, Under Review) ADAPT: Lightweight, Long-Range Machine Learning Force Fields Without Graphs**](https://arxiv.org/abs/2509.24115)<br>
 *Dramko Evan*, Xiong Yihuang, Zhu Yizhi, Hautier Geoffroy, Reps Thomas, Jermaine Christopher, Anastasios Kyrillidis<br>
 , 2025<br>
 [Zenodo](https://zenodo.org/records/17411327); [Github](https://github.com/EvanDramko/ADAPT_Released); [Webpage](https://evandramko.github.io/ADAPT_webpage/)  
@@ -23,6 +23,12 @@ IUCr Acta Crystallographica D, 2025<br>
 [**RecCrysFormer: Refined Protein Structural Prediction from 3D Patterson Maps via Recycling Training Runs**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iKjv4W4AAAAJ&citation_for_view=iKjv4W4AAAAJ:u-x6o8ySG0sC)<br>
 Tom Pan, *Evan Dramko*, Mitchell D Miller, George N Phillips Jr, Anastasios Kyrillidis<br>
 Conference on Parsimony and Learning (CPAL), 2025<br>
+
+
+[**(Preprint, Under Review) Convergence Analysis of Two-Layer Neural Networks under Gaussian Input Masking**](https://arxiv.org/abs/2602.17423)<br>
+Afroditi Kolomvaki, Fangshuo Liao, *Evan Dramko*, Ziyun Guang, Anastasios Kyrillidis<br>
+, 2025<br>
+
 
 [**Characterizing the effect of filament moisture on tensile properties and morphology of fused deposition modeled polylactic acid/polybutylene succinate parts**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iKjv4W4AAAAJ&citation_for_view=iKjv4W4AAAAJ:u5HHmVD_uO8C)<br>
 Raihan Quader, *Evan Dramko*, David Grewell, Jed Randall, Lokesh Narayanan<br>
