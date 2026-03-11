@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year graduate student at Rice University. I am advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/about/), and I work closely with [Dr. Geoffroy Hautier](https://sites.dartmouth.edu/hautiergroup/), as well as [Dr. Christopher Jermaine](https://www.cs.rice.edu/~cmj4/), [Dr.  Thomas Reps](https://pages.cs.wisc.edu/~reps/) of UW-Madison, [Dr. George Phillips](https://www.phillipslab.org), and [Dr. Mitchell Miller](https://scholar.google.com/citations?user=waude4cAAAAJ&hl=en). 
+I am a third year graduate student at Rice University. I am advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/about/) in Computer Science, and overseen by [Dr. Geoffroy Hautier](https://sites.dartmouth.edu/hautiergroup/) in Materials Science. I am fortunate to collaborate as well with [Dr. Christopher Jermaine](https://www.cs.rice.edu/~cmj4/), [Dr.  Thomas Reps](https://pages.cs.wisc.edu/~reps/) of UW-Madison, [Dr. George Phillips](https://www.phillipslab.org), and [Dr. Mitchell Miller](https://scholar.google.com/citations?user=waude4cAAAAJ&hl=en). 
 
 My work focuses in three areas:   
 1) the development of novel Neural Network (NN) architectures,   
 2) applying NNs to the physical sciences: specifically atomistic structural calculations in nanoengineering and biochemistry,   
-3) Reinforcement Learning (RL) based model tuning and Reinforcement Learning from Human Feedback (RLHF)  
+3) design and theory of approximate attention mechanisms
 
 Throughout my work I focus on the underlying mathematics of the application domain and customizing the NN architecure to encode inductive biases into the architecture. Additionally, due to the nature of the ML for physical sciences domain, a substantial part of my work in that area is in cross-departmental collaboration, developing and integrating NN pipelines and utilities, and data curation. 
 
