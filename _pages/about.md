@@ -23,6 +23,7 @@ For an up-to-date resume including internships, awards, etc, please feel free to
 ### Explanatory Posts
 
 ##### Transformers and Related
+- Lecture Slides on Introduction to Transformers [pdf](../files/classPresTransformers.pdf)
 - Reinforcement Learning from Human Feedback Introduction [pdf](../files/RLHFbase.pdf)
 - Transformer Mathematics In Extensive Detail [pdf](../files/transformer.pdf)
 - Deep Dive Into Attention Computations [pdf](../files/attention.pdf)
