@@ -7,18 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year graduate student at Rice University. I am advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/about/) in Computer Science, and overseen by [Dr. Geoffroy Hautier](https://sites.dartmouth.edu/hautiergroup/) in Materials Science. I am fortunate to collaborate as well with [Dr. Christopher Jermaine](https://www.cs.rice.edu/~cmj4/), [Dr.  Thomas Reps](https://pages.cs.wisc.edu/~reps/) of UW-Madison, [Dr. George Phillips](https://www.phillipslab.org), and [Dr. Mitchell Miller](https://scholar.google.com/citations?user=waude4cAAAAJ&hl=en). 
+I am a third year PhD student at Rice University, working at the intersection of artificial intelligence, scientific machine learning, and the physical sciences. I am advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/about/) in Computer Science, and overseen by [Dr. Geoffroy Hautier](https://sites.dartmouth.edu/hautiergroup/) in Materials Science. I am fortunate to collaborate as well with [Dr. Christopher Jermaine](https://www.cs.rice.edu/~cmj4/), and [Dr.  Thomas Reps](https://pages.cs.wisc.edu/~reps/) of UW-Madison. Earlier in my PhD, I also worked on AI methods for structural biology and protein crystallography in collaboration with the lab of [Dr. George Phillips (ret.)](https://www.phillipslab.org).  
 
-My work focuses in three areas:   
-1) the development of novel Neural Network (NN) architectures,   
-2) applying NNs to the physical sciences: specifically atomistic structural calculations in nanoengineering and biochemistry,   
-3) design and theory of approximate attention mechanisms
+My research focuses on developing novel machine learning methods and AI systems for scientific discovery. In particular, I work on:   
+1) novel Neural Network (NN) architectures and attention variants,   
+2) machine learning interatomic potentials (MLIPs) and atomistic modeling,
+3) AI methods in materials science and chemistry.
 
-Throughout my work I focus on the underlying mathematics of the application domain and customizing the NN architecure to encode inductive biases into the architecture. Additionally, due to the nature of the ML for physical sciences domain, a substantial part of my work in that area is in cross-departmental collaboration, developing and integrating NN pipelines and utilities, and data curation. 
+A central theme of my work is designing architectures that incorporate structure from the underlying scientific problem while retaining the flexibility and scalability of modern deep learning systems. My research combines theoretical analysis, large-scale model development, and interdisciplinary collaboration across computer science, materials science, chemistry, and biophysics.
 
 For an up-to-date resume including internships, awards, etc, please feel free to contact me!
 
-*I started writing some explanatory articles covering in detail the mathematics of machine learning. Check them out!*
+*I started writing some explanatory articles covering the mathematics of machine learning in detail. Check them out!*
 
 ### Explanatory Posts
 
