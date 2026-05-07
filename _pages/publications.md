@@ -13,7 +13,7 @@ author_profile: true
 *Dramko Evan*, Xiong Yihuang, Zhu Yizhi, Hautier Geoffroy, Reps Thomas, Jermaine Christopher, Anastasios Kyrillidis<br>
 , 2025<br>
 [Zenodo](https://zenodo.org/records/18962774); [Github](https://github.com/EvanDramko/ADAPT_Released); [Webpage](https://evandramko.github.io/ADAPT_webpage/)  
-ADAPT will be presented as a poster at MRS Fall 2025!
+Presented as a poster at MRS Fall 2025
 
 [**Completion of partial structures using Patterson maps with the CrysFormer machine learning model**](https://journals.iucr.org/d/issues/2025/12/00/has5002/index.html)<br>
 Tom Pan, *Evan Dramko*, Mitchell D Miller, George N Phillips Jr, Anastasios Kyrillidis<br>

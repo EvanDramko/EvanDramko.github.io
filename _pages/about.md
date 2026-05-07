@@ -11,7 +11,7 @@ I am a third year PhD student at Rice University, working at the intersection of
 
 My research focuses on developing novel machine learning methods and AI systems for scientific discovery. In particular, I work on:   
 1) novel Neural Network (NN) architectures and attention variants,   
-2) machine learning interatomic potentials (MLIPs) and atomistic modeling,
+2) machine learning interatomic potentials (MLIPs) and atomistic modeling,  
 3) AI methods in materials science and chemistry.
 
 A central theme of my work is designing architectures that incorporate structure from the underlying scientific problem while retaining the flexibility and scalability of modern deep learning systems. My research combines theoretical analysis, large-scale model development, and interdisciplinary collaboration across computer science, materials science, chemistry, and biophysics.
