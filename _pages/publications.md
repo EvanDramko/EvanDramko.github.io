@@ -9,9 +9,9 @@ author_profile: true
 *Dramko Evan*, Zhu Yizhi, Krivokapic Aleksander, Hautier Geoffroy, Reps Thomas, Jermaine Christopher, Anastasios Kyrillidis<br>
 , 2025<br>
 
-[**(Preprint, Under Review) ADAPT: Lightweight, Long-Range Machine Learning Force Fields Without Graphs**](https://arxiv.org/abs/2509.24115)<br>
-*Dramko Evan*, Xiong Yihuang, Zhu Yizhi, Hautier Geoffroy, Reps Thomas, Jermaine Christopher, Anastasios Kyrillidis<br>
-, 2025<br>
+ADAPT: Lightweight, Long-Range Machine Learning Force Fields Without Graphs**](https://arxiv.org/abs/2509.24115)<br>
+*Dramko Evan*, Zhu Yizhi, Xiong Yihuang, Hautier Geoffroy, Reps Thomas, Jermaine Christopher, Anastasios Kyrillidis<br>
+Physical Review Research, 2026<br>
 [Zenodo](https://zenodo.org/records/18962774); [Github](https://github.com/EvanDramko/ADAPT_Released); [Webpage](https://evandramko.github.io/ADAPT_webpage/)  
 Presented as a poster at MRS Fall 2025
 
