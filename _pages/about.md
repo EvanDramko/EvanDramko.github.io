@@ -11,13 +11,13 @@ I am a PhD student at Rice University working broadly in machine learning and ar
 
 I am advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/about/) in Computer Science and [Dr. Geoffroy Hautier](https://sites.dartmouth.edu/hautiergroup/) in Materials Science. I also collaborate with [Dr. Christopher Jermaine](https://www.cs.rice.edu/~cmj4/) and [Dr. Thomas Reps](https://pages.cs.wisc.edu/~reps/) of UW–Madison. Earlier in my PhD, I worked on machine-learning methods for structural biology and protein crystallography in collaboration with the lab of [Dr. George Phillips (ret.)](https://www.phillipslab.org).
 
-My research focuses on developing and understanding modern machine learning methods, from their mathematical foundations to large-scale applications. In particular, I work on:
+My research has focused on three main areas:
 
 1. **Theory and mathematical foundations of neural networks**
 2. **Generative modeling, particularly diffusion models**
 3. **Scientific machine learning, including machine-learning interatomic potentials (MLIPs) and atomistic modeling**
 
-A central theme of my work is understanding how mathematical and problem-specific structure can be incorporated into learning systems while retaining the flexibility and scalability of modern deep learning. My research combines theoretical analysis, model and algorithm development, large-scale experimentation, and interdisciplinary applications across computer science and the physical sciences.
+A central theme of my work is understanding how mathematical and problem-specific structure can be incorporated into learning systems while retaining the flexibility and scalability of modern deep learning. My research spans theoretical analysis, model and algorithm development, large-scale experimentation, and the development of research software for practical scientific workflows.
 
 For an up-to-date resume including internships, awards, etc, please feel free to contact me!
 
