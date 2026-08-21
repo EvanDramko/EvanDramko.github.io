@@ -25,15 +25,15 @@ For an up-to-date resume including internships, awards, etc, please feel free to
 ### Tutorials and Lecture Notes
 
 ##### Diffusion and Related
-- Deriving DDIM from scratch [pdf](../files/ddim_derivation.pdf)
-- Deriving DDPM from scratch [pdf](../files/ddpm_derivation.pdf)
+- [Deriving DDIM from scratch (pdf)](../files/ddim_tutorial.pdf)
+- [Deriving DDPM from scratch (pdf)](../files/ddpm_derivation.pdf)
 
 ##### Transformers and Related
-- Lecture Slides on Introduction to Transformers [pdf](../files/classPresTransformers.pdf)
-- Reinforcement Learning from Human Feedback Introduction [pdf](../files/RLHFbase.pdf)
-- Transformer Mathematics In Extensive Detail [pdf](../files/transformer.pdf)
-- Deep Dive Into Attention Computations [pdf](../files/attention.pdf)
+- [Lecture Slides on Introduction to Transformers (pdf)](../files/classPresTransformers.pdf)
+- [Reinforcement Learning from Human Feedback Introduction (pdf)](../files/RLHFbase.pdf)
+- [Transformer Mathematics In Extensive Detail (pdf)](../files/transformer.pdf)
+- [Deep Dive Into Attention Computations (pdf)](../files/attention.pdf)
 
 ##### Other
-- Einstein Summation (einsum) in *numpy* and *pyTorch* [pdf](../files/einsum.pdf)
-- Inflation of Testing Accuracy Due To Invalid Time Series Interpolation [pdf](../files/interpolation.pdf)
+- [Einstein Summation (einsum) in *numpy* and *PyTorch* (pdf)](../files/einsum.pdf)
+- [Inflation of Testing Accuracy Due To Invalid Time Series Interpolation (pdf)](../files/interpolation.pdf)
