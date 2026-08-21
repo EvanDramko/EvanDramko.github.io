@@ -7,20 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student at Rice University, working at the intersection of artificial intelligence, scientific machine learning, and the physical sciences. I am advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/about/) in Computer Science, and overseen by [Dr. Geoffroy Hautier](https://sites.dartmouth.edu/hautiergroup/) in Materials Science. I am fortunate to collaborate as well with [Dr. Christopher Jermaine](https://www.cs.rice.edu/~cmj4/), and [Dr.  Thomas Reps](https://pages.cs.wisc.edu/~reps/) of UW-Madison. Earlier in my PhD, I also worked on AI methods for structural biology and protein crystallography in collaboration with the lab of [Dr. George Phillips (now retired)](https://www.phillipslab.org).  
+I am a PhD student at Rice University working broadly in machine learning and artificial intelligence, with interests spanning the mathematical foundations of deep learning, generative modeling, and scientific machine learning. Much of my current applied research focuses on problems in the physical sciences, particularly atomistic modeling and materials science.
 
-My research focuses on developing novel machine learning methods and AI systems for scientific discovery. In particular, I work on:   
-1) theory and mathematical foundations of neural networks,   
-2) machine learning interatomic potentials (MLIPs) and atomistic modeling,  
-3) diffusion models
+I am advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/about/) in Computer Science and [Dr. Geoffroy Hautier](https://sites.dartmouth.edu/hautiergroup/) in Materials Science. I also collaborate with [Dr. Christopher Jermaine](https://www.cs.rice.edu/~cmj4/) and [Dr. Thomas Reps](https://pages.cs.wisc.edu/~reps/) of UW–Madison. Earlier in my PhD, I worked on machine-learning methods for structural biology and protein crystallography in collaboration with the lab of [Dr. George Phillips (ret.)](https://www.phillipslab.org).
 
-A central theme of my work is designing architectures that incorporate structure from the underlying scientific problem while retaining the flexibility and scalability of modern deep learning systems. My research combines theoretical analysis, large-scale model development, and interdisciplinary collaboration across computer science, materials science, chemistry, and biophysics.
+My research focuses on developing and understanding modern machine learning methods, from their mathematical foundations to large-scale applications. In particular, I work on:
+
+1. **Theory and mathematical foundations of neural networks**
+2. **Generative modeling, particularly diffusion models**
+3. **Scientific machine learning, including machine-learning interatomic potentials (MLIPs) and atomistic modeling**
+
+A central theme of my work is understanding how mathematical and problem-specific structure can be incorporated into learning systems while retaining the flexibility and scalability of modern deep learning. My research combines theoretical analysis, model and algorithm development, large-scale experimentation, and interdisciplinary applications across computer science and the physical sciences.
 
 For an up-to-date resume including internships, awards, etc, please feel free to contact me!
 
-*I started writing some explanatory articles covering the mathematics of machine learning in detail. Check them out!*
 
-### Explanatory Posts
+### Tutorials and Lecture Notes
+
+##### Diffusion and Related
+- Deriving DDIM from scratch [pdf](../files/ddim_derivation.pdf)
+- Deriving DDPM from scratch [pdf](../files/ddpm_derivation.pdf)
 
 ##### Transformers and Related
 - Lecture Slides on Introduction to Transformers [pdf](../files/classPresTransformers.pdf)
