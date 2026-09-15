@@ -9,6 +9,8 @@ redirect_from:
 
 I am a PhD student at Rice University working broadly in machine learning and artificial intelligence, with interests spanning the mathematical foundations of deep learning, generative modeling, and scientific machine learning. Much of my current applied research focuses on problems in the physical sciences, particularly atomistic modeling and materials science.
 
+My work is highly interdisciplinary, and a major part of my research involves bridging the technical languages of machine learning and the physical sciences. I frequently enter new scientific domains, develop the background needed to understand their core modeling problems and constraints, and work with domain experts to translate these into machine-learning formulations. In the other direction, I communicate ML concepts and modeling decisions to scientific collaborators without requiring specialized ML backgrounds. This has included developing presentations and tutorials on topics such as attention and Transformers, generative modeling, optimization, and the physical foundations needed to formulate scientific machine-learning problems.
+
 I am advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/about/) in Computer Science and [Dr. Geoffroy Hautier](https://sites.dartmouth.edu/hautiergroup/) in Materials Science. I also collaborate with [Dr. Christopher Jermaine](https://www.cs.rice.edu/~cmj4/) and [Dr. Thomas Reps](https://pages.cs.wisc.edu/~reps/) of UW–Madison. Earlier in my PhD, I worked on machine-learning methods for structural biology and protein crystallography in collaboration with the lab of [Dr. George Phillips (ret.)](https://www.phillipslab.org).
 
 My research has focused on three main areas:
@@ -25,8 +27,9 @@ For an up-to-date resume including internships, awards, etc, please feel free to
 ### Tutorials and Lecture Notes
 
 ##### Diffusion and Related
-- [Deriving DDIM from scratch (pdf)](../files/ddim_tutorial.pdf)
 - [Deriving DDPM from scratch (pdf)](../files/ddpm_derivation.pdf)
+- [Deriving DDIM from DDPM (pdf)](../files/ddim_tutorial.pdf)
+- [Deriving Flow Matching from DDIM (pdf)](../files/flow_matching.pdf)
 
 ##### Transformers and Related
 - [Lecture Slides on Introduction to Transformers (pdf)](../files/classPresTransformers.pdf)
