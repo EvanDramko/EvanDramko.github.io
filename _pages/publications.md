@@ -26,9 +26,9 @@ Tom Pan, *Evan Dramko*, Mitchell D Miller, George N Phillips Jr, Anastasios Kyri
 Conference on Parsimony and Learning (CPAL), 2025<br>
 
 
-[**(Preprint, Under Review) Convergence Analysis of Two-Layer Neural Networks under Gaussian Input Masking**](https://arxiv.org/abs/2602.17423)<br>
+[**Convergence Analysis of Two-Layer Neural Networks under Gaussian Input Masking**](https://arxiv.org/abs/2602.17423)<br>
 Afroditi Kolomvaki, Fangshuo Liao, *Evan Dramko*, Ziyun Guang, Anastasios Kyrillidis<br>
-, 2025<br>
+Transactions on Machine Learning Research, 2026<br>
 
 
 [**Characterizing the effect of filament moisture on tensile properties and morphology of fused deposition modeled polylactic acid/polybutylene succinate parts**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iKjv4W4AAAAJ&citation_for_view=iKjv4W4AAAAJ:u5HHmVD_uO8C)<br>
