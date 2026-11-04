@@ -7,21 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Rice University working broadly in machine learning and artificial intelligence, with interests spanning the mathematical foundations of deep learning, generative modeling, and scientific machine learning. Much of my current applied research focuses on problems in the physical sciences, particularly atomistic modeling and materials science.
+I am a PhD candidate in Computer Science at Rice University, working broadly in machine learning and artificial intelligence, with particular interests in *the mathematical foundations of deep learning, generative modeling, and AI-driven scientific discovery*. My research spans theoretical analysis, model and algorithm development, and large-scale experimentation, with much of my recent work focusing on applications in the physical sciences.
 
-My work is highly interdisciplinary, and a major part of my research involves bridging the technical languages of machine learning and the physical sciences. I frequently enter new scientific domains, develop the background needed to understand their core modeling problems and constraints, and work with domain experts to translate these into machine-learning formulations. In the other direction, I communicate ML concepts and modeling decisions to scientific collaborators without requiring specialized ML backgrounds. This has included developing presentations and tutorials on topics such as attention and Transformers, generative modeling, optimization, and the physical foundations needed to formulate scientific machine-learning problems.
+My current research focuses on architectural modifications to diffusion and flow matching focused on novelty of generations and computational efficiency. More broadly, my research group is exploring *LLM-guided scientific discovery*, with an emphasis on integrating generative models, predictive methods, and scientific reasoning. Previsously, I worked on Transformers variants and MLIPs. A recurring theme of my work is understanding how mathematical and physical constraints can be incorporated into learning systems without limiting their expressivity.
 
-I am advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/about/) in Computer Science and [Dr. Geoffroy Hautier](https://sites.dartmouth.edu/hautiergroup/) in Materials Science. I also collaborate with [Dr. Christopher Jermaine](https://www.cs.rice.edu/~cmj4/) and [Dr. Thomas Reps](https://pages.cs.wisc.edu/~reps/) of UW–Madison. Earlier in my PhD, I worked on machine-learning methods for structural biology and protein crystallography in collaboration with the lab of [Dr. George Phillips (ret.)](https://www.phillipslab.org).
-
-My research has focused on three main areas:
-
-1. **Theory and mathematical foundations of neural networks**
-2. **Generative modeling, particularly diffusion models**
-3. **Scientific machine learning, including machine-learning interatomic potentials (MLIPs) and atomistic modeling**
-
-A central theme of my work is understanding how mathematical and problem-specific structure can be incorporated into learning systems while retaining the flexibility and scalability of modern deep learning. My research spans theoretical analysis, model and algorithm development, large-scale experimentation, and the development of research software for practical scientific workflows.
-
-For an up-to-date resume including internships, awards, etc, please feel free to contact me!
+My work is highly interdisciplinary, involving close collaboration with researchers across machine learning and the physical sciences. I particularly enjoy bridging these fields, both by translating scientific problems into machine-learning formulations and by communicating technical ML concepts to scientific audiences. I am advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/about/) and [Dr. Geoffroy Hautier](https://sites.dartmouth.edu/hautiergroup/), and collaborate with [Dr. Christopher Jermaine](https://www.cs.rice.edu/~cmj4/) and [Dr. Thomas Reps](https://pages.cs.wisc.edu/~reps/).
 
 
 ### Tutorials and Lecture Notes
