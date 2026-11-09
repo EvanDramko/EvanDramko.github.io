@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Highlighted Works
+
 [**(Preprint, Under Review) On The Finetuning of MLIPs Through the Lens of Iterated Maps With BPTT**](https://arxiv.org/abs/2512.01067)<br>
 *Dramko Evan*, Zhu Yizhi, Krivokapic Aleksander, Hautier Geoffroy, Reps Thomas, Jermaine Christopher, Anastasios Kyrillidis<br>
 , 2026<br>
@@ -16,6 +18,18 @@ Physical Review Research, 2026<br>
 [Zenodo](https://zenodo.org/records/18962774); [Github](https://github.com/EvanDramko/ADAPT_Released); [Webpage](https://evandramko.github.io/ADAPT_webpage/)  
 Presented as a poster at MRS Fall 2025
 
+---
+
+## Other Publications
+
+[**Using crystallographic data to complete domain-sized partial structures with the CrysFormer hybrid convolution- and transformer-based model**]()<br>
+Tom Pan, *Evan Dramko*, Mitchell D Miller, Anastasios Kyrillidis, George N Phillips Jr<br>
+Under Review, 2026 <br>
+
+[**Convergence Analysis of Two-Layer Neural Networks under Gaussian Input Masking**](https://arxiv.org/abs/2602.17423)<br>
+Afroditi Kolomvaki, Fangshuo Liao, *Evan Dramko*, Ziyun Guang, Anastasios Kyrillidis<br>
+Transactions on Machine Learning Research, 2026<br>
+
 [**Completion of partial structures using Patterson maps with the CrysFormer machine learning model**](https://journals.iucr.org/d/issues/2025/12/00/has5002/index.html)<br>
 Tom Pan, *Evan Dramko*, Mitchell D Miller, George N Phillips Jr, Anastasios Kyrillidis<br>
 IUCr Acta Crystallographica D, 2025<br>
@@ -24,11 +38,6 @@ IUCr Acta Crystallographica D, 2025<br>
 [**RecCrysFormer: Refined Protein Structural Prediction from 3D Patterson Maps via Recycling Training Runs**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iKjv4W4AAAAJ&citation_for_view=iKjv4W4AAAAJ:u-x6o8ySG0sC)<br>
 Tom Pan, *Evan Dramko*, Mitchell D Miller, George N Phillips Jr, Anastasios Kyrillidis<br>
 Conference on Parsimony and Learning (CPAL), 2025<br>
-
-
-[**Convergence Analysis of Two-Layer Neural Networks under Gaussian Input Masking**](https://arxiv.org/abs/2602.17423)<br>
-Afroditi Kolomvaki, Fangshuo Liao, *Evan Dramko*, Ziyun Guang, Anastasios Kyrillidis<br>
-Transactions on Machine Learning Research, 2026<br>
 
 
 [**Characterizing the effect of filament moisture on tensile properties and morphology of fused deposition modeled polylactic acid/polybutylene succinate parts**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iKjv4W4AAAAJ&citation_for_view=iKjv4W4AAAAJ:u5HHmVD_uO8C)<br>
