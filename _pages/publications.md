@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Highlighted Works
+### Highlighted Works
 
 [**(Preprint, Under Review) On The Finetuning of MLIPs Through the Lens of Iterated Maps With BPTT**](https://arxiv.org/abs/2512.01067)<br>
 *Dramko Evan*, Zhu Yizhi, Krivokapic Aleksander, Hautier Geoffroy, Reps Thomas, Jermaine Christopher, Anastasios Kyrillidis<br>
@@ -20,7 +20,7 @@ Presented as a poster at MRS Fall 2025
 
 ---
 
-## Other Publications
+### Other Publications
 
 [**Using crystallographic data to complete domain-sized partial structures with the CrysFormer hybrid convolution- and transformer-based model**]()<br>
 Tom Pan, *Evan Dramko*, Mitchell D Miller, Anastasios Kyrillidis, George N Phillips Jr<br>
