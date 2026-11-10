@@ -7,9 +7,9 @@ author_profile: true
 
 ### Highlighted Works
 
-[**(Preprint, Under Review) On The Finetuning of MLIPs Through the Lens of Iterated Maps With BPTT**](https://arxiv.org/abs/2512.01067)<br>
+[**Worse Forces Can Lead to Better Structures: Trajectory-Level Fine-Tuning of Machine Learning Interatomic Potentials**](https://arxiv.org/abs/2512.01067)<br>
 *Dramko Evan*, Zhu Yizhi, Krivokapic Aleksander, Hautier Geoffroy, Reps Thomas, Jermaine Christopher, Anastasios Kyrillidis<br>
-, 2026<br>
+Under Review, 2026<br>
 Oral presentation at MRS Fall 2026
 
 [**ADAPT: Lightweight, Long-Range Machine Learning Force Fields Without Graphs**](https://arxiv.org/abs/2509.24115v2)<br>
