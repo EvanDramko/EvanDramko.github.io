@@ -43,3 +43,11 @@ Conference on Parsimony and Learning (CPAL), 2025<br>
 [**Characterizing the effect of filament moisture on tensile properties and morphology of fused deposition modeled polylactic acid/polybutylene succinate parts**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iKjv4W4AAAAJ&citation_for_view=iKjv4W4AAAAJ:u5HHmVD_uO8C)<br>
 Raihan Quader, *Evan Dramko*, David Grewell, Jed Randall, Lokesh Narayanan<br>
 3D Printing and Additive Manufacturing, 2024<br>
+
+
+---
+
+#### Reviewing and Service
+ICML 2026 Gold Star Reviewer
+
+Neurips 2024, 2025, 2026, ICLR 2025, ICML 2026 (non-LLM track)
